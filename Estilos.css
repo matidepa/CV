@@ -1,0 +1,17 @@
+body {background-color: sandybrown;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+header {
+    text-align: center;
+    font-size: 35px;
+}
+#foto {padding-left: 800px;
+
+}
+#descripcion {padding-left: 700px;
+    font-size: 20px;
+    border: black;
+
+}
+footer{padding-top: 70px;
+        padding-left: 1400px;
+}
